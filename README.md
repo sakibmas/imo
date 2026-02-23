@@ -7,3 +7,13 @@
  <img src="./Screenshot/privacy.jpg" alt="imo" width="50%" />
 </p>
 
+# Functions
+ - Go to Settings > Functions
+ - Disable -
+   - Show Calls
+   - Show VoiceClub
+   - Planet
+   - People you may know
+ <p align="center">
+ <img src="./Screenshot/functions.jpg" alt="imo" width="50%" />
+</p>
